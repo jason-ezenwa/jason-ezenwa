@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JasonFlair
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently an ALX software engineering student. 
-- 👨🏾‍💻 Currently working on an AirBnB clone 
+- 👨🏾‍💻 I have worked on an AirBnB clone 
+- 👨🏾‍💻 Currently working on an Music Recommender website
 - 📫 How to reach me - emelieobumse100@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ...
 . --->
