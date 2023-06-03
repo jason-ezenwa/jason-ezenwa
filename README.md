@@ -4,7 +4,7 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack web develo
 
 # About Me
 
-I specialize in Python, specifically web development using Flask. I'm also experienced in Linux (System Administration and DevOps), Bash scripting, MySQL database management, and I'm currently expanding my knowledge in JavaScript and C programming.
+I specialize in backend engineering, specifically web development using  Python and Flask. I'm also experienced with JavaScript (NodeJS and TypeScript), Linux for System Administration and DevOps, Bash scripting, MySQL and MongoDB for database management and basic knowledge of using Redis. I also have strong foundations for frontend development using HTML, CSS and JQuery.
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
@@ -20,7 +20,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 # Projects
 
-👨🏾‍💻 I have worked on some exciting projects, including an AirBnB clone and a music recommender web application called Flair Vibes Tailor. My Github repositories showcase some of my recent projects, so be sure to check them out!
+👨🏾‍💻 I have worked on some exciting projects, including an AirBnB clone and a music recommender web application called Flair Vibes Tailor. I am currently working on a medicine dose tracker My Github repositories showcase some of my recent projects, so be sure to check them out!
 
 # Blog Posts
 
