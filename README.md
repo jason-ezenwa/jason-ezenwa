@@ -4,7 +4,7 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack web develo
 
 # About Me
 
-I specialize in backend engineering, specifically web development using  Python and Flask. I'm also experienced with JavaScript (NodeJS and TypeScript), Linux for System Administration and DevOps, Bash scripting, MySQL and MongoDB for database management and basic knowledge of using Redis. I also have strong foundations for frontend development using HTML, CSS and JQuery.
+I specialize in backend engineering, specifically web development using  Python and Flask. I'm also experienced with JavaScript (NodeJS and TypeScript), Linux for System Administration and DevOps, Bash scripting, MySQL and MongoDB for database management and basic knowledge of using Redis. I also have strong foundations for frontend engineering using HTML, CSS and JQuery.
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
