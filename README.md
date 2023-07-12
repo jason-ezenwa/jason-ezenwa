@@ -22,7 +22,14 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 # Projects
 
-👨🏾‍💻 I have worked on some exciting projects, including an AirBnB clone and a music recommender web application called Flair Vibes Tailor. I am currently working on a medicine dose tracker My Github repositories showcase some of my recent projects, so be sure to check them out!
+👨🏾‍💻 I have worked on some exciting projects, including:
+During my studies and personal projects, I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
+•	MedicationTrackr: A medication tracker where I worked on the backend and collaborated with a frontend engineer to build using React, JavaScript, Python, Flask, and APScheduler for scheduling email notifications. The GitHub repository can be accessed here: https://github.com/JasonFlair/MedicationTrackr.
+•	Files Manager: An API for a files manager created with Node.js, enabling user authentication, temporary storage with Redis, creation of image thumbnails, and storage of file information using MongoDB. You can access the repository here: https://github.com/JasonFlair/alx-files_manager.
+•	Flair Vibes Tailor: A music recommender built using Flask, Python, JQuery, and the Spotify API. You can access the hosted web application here: https://jasonflair.pythonanywhere.com/fvtlp.
+•	AirBnB Clone: An AirBnB clone built using Flask, Python, and JQuery. The GitHub repository is available at: https://github.com/JasonFlair/AirBnB_clone_v4.
+•	Simple Shell: A simple shell based on Stephen Brennan's simple shell written in C, which executes basic shell commands. The GitHub repository is available at: https://github.com/JasonFlair/simple_shell.
+
 
 # Blog Posts
 
