@@ -27,9 +27,11 @@ During my studies and personal projects, I have gained practical experience in b
 
 •	MedicationTrackr: A medication tracker where I worked on the backend and collaborated with a frontend engineer to build using React, JavaScript, Python, Flask, and APScheduler for scheduling email notifications. The GitHub repository can be accessed here: https://github.com/JasonFlair/MedicationTrackr.
 
-•	Files Manager: An API for a files manager created with Node.js, enabling user authentication, temporary storage with Redis, creation of image thumbnails, and storage of file information using MongoDB. You can access the repository here: https://github.com/JasonFlair/alx-files_manager.
+•	Flair Vibes Tailor: A music recommender built using Flask, Python, JQuery, and the Spotify API. You can access the hosted web application here: https://jasonflair.pythonanywhere.com/fvtlp. 
 
-•	Flair Vibes Tailor: A music recommender built using Flask, Python, JQuery, and the Spotify API. You can access the hosted web application here: https://jasonflair.pythonanywhere.com/fvtlp.
+•	Flair-Commerce: The backend of an e-commerce web application built with Node.js, Express.js, Multer and MongoDB. This web application enables user creation and authentication, products management and order management. Github repository: https://github.com/JasonFlair/flair-commerce/tree/main/backend
+
+•	Files Manager: An API for a files manager created with Node.js, enabling user authentication, temporary storage with Redis, creation of image thumbnails, and storage of file information using MongoDB. You can access the repository here: https://github.com/JasonFlair/alx-files_manager.
 
 •	AirBnB Clone: An AirBnB clone built using Flask, Python, and JQuery. The GitHub repository is available at: https://github.com/JasonFlair/AirBnB_clone_v4.
 
@@ -41,6 +43,7 @@ During my studies and personal projects, I have gained practical experience in b
 I have a few blog posts you might be interested in checking out:
 
 - [Building Flair Vibes Tailor](https://medium.com/@emelieobumse100/building-flair-vibes-tailor-a-personalised-music-recommender-c3a0f042faa2) - My blog post about building Flair Vibes Tailor
+- [The Definitive Guide to Authentication and Authorization with JSON Web Tokens: Everything you need to know](https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668) - My blog post about server-side authentication and authorization for Node.js apps using JWTs
 
 - [What Happens When You Type “https://www.google.com” Into Your Browser and Press ‘Enter’](https://medium.com/@emelieobumse100/what-happens-when-you-type-https-www-google-com-into-your-browser-and-press-enter-bc0b0d8c7d08) - My blog post about how the web works and what happens when you enter a URL in your browser.
 
