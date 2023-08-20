@@ -4,7 +4,7 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack web develo
 
 # About Me
 
-I specialize in backend engineering, proficiently using JavaScript (Node.js) and the Express.js framework as well as Python and the Flask framework. Additionally, I have some experience with TypeScript. I have practical knowledge of working with Linux, including tasks related to system administration, web stack debugging, and some DevOps practices. I am also skilled in Bash scripting, which allows me to automate tasks and improve efficiency in system management. For database management, I have experience working with both MySQL and MongoDB. In MySQL, I am familiar with using SQLAlchemy, a Python SQL toolkit and Object-Relational Mapping (ORM) library.
+I specialize in backend engineering, proficiently using JavaScript (Node.js) and the Express.js framework as well as Python and the Flask framework to develop efficient and scalable server-side applications that can be seamlessly integrated with the frontend applications. Additionally, I have some experience with TypeScript and Linux systems. I also have knowledge of CI/CD using Jenkins & Fabric and containerization using docker, I am also skilled in Bash scripting. For database management, I have experience working with both MySQL and MongoDB. I also have a strong foundation in frontend development using HTML, CSS, and jQuery with foundational knowledge of React. Other skills I have include Unit testing, Git for version control, Redis for temporary storage systems and the C programming language.
 
 Other skills I have include Git for version control, and basic knowledge of using Redis and the C programming language. I also have a strong foundation in frontend development using HTML, CSS, and jQuery.
 
