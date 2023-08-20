@@ -6,8 +6,6 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack web develo
 
 I specialize in backend engineering, proficiently using JavaScript (Node.js) and the Express.js framework as well as Python and the Flask framework to develop efficient and scalable server-side applications that can be seamlessly integrated with the frontend applications. Additionally, I have some experience with TypeScript and Linux systems. I also have knowledge of CI/CD using Jenkins & Fabric and containerization using docker, I am also skilled in Bash scripting. For database management, I have experience working with both MySQL and MongoDB. I also have a strong foundation in frontend development using HTML, CSS, and jQuery with foundational knowledge of React. Other skills I have include Unit testing, Git for version control, Redis for temporary storage systems and the C programming language.
 
-Other skills I have include Git for version control, and basic knowledge of using Redis and the C programming language. I also have a strong foundation in frontend development using HTML, CSS, and jQuery.
-
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
 # Soft Skills
@@ -43,7 +41,7 @@ During my studies and personal projects, I have gained practical experience in b
 I have a few blog posts you might be interested in checking out:
 
 - [Building Flair Vibes Tailor](https://medium.com/@emelieobumse100/building-flair-vibes-tailor-a-personalised-music-recommender-c3a0f042faa2) - My blog post about building Flair Vibes Tailor
-- [The Definitive Guide to Authentication and Authorization with JSON Web Tokens: Everything you need to know](https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668) - My blog post about server-side authentication and authorization for Node.js apps using JWTs
+- [Authentication and Authorization with JSON Web Tokens](https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668) - My blog post about server-side authentication and authorization for Node.js apps using JWTs
 
 - [What Happens When You Type “https://www.google.com” Into Your Browser and Press ‘Enter’](https://medium.com/@emelieobumse100/what-happens-when-you-type-https-www-google-com-into-your-browser-and-press-enter-bc0b0d8c7d08) - My blog post about how the web works and what happens when you enter a URL in your browser.
 
