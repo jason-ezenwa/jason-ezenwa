@@ -42,7 +42,7 @@ I have a few blog posts you might be interested in checking out:
 
 - [Building Flair Vibes Tailor](https://medium.com/@emelieobumse100/building-flair-vibes-tailor-a-personalised-music-recommender-c3a0f042faa2) - My blog post about building Flair Vibes Tailor
 - [Authentication and Authorization with JSON Web Tokens](https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668) - My blog post about server-side authentication and authorization for Node.js apps using JWTs
-
+- [Getting Familiar with Props in React]([https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668](https://medium.com/@emelieobumse100/getting-familiar-with-props-in-react-5abdcaae8b04)) - My blog post that explains what 'props' are, and how they work. Taking you on a journey to transform your components from static to dynamic.
 - [What Happens When You Type “https://www.google.com” Into Your Browser and Press ‘Enter’](https://medium.com/@emelieobumse100/what-happens-when-you-type-https-www-google-com-into-your-browser-and-press-enter-bc0b0d8c7d08) - My blog post about how the web works and what happens when you enter a URL in your browser.
 
 
