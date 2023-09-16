@@ -25,7 +25,7 @@ During my studies and personal projects, I have gained practical experience in b
 
 •	MedicationTrackr: A medication tracker where I worked on the backend and collaborated with a frontend engineer to build using React, JavaScript, Python, Flask, and APScheduler for scheduling email notifications. The GitHub repository can be accessed here: https://github.com/JasonFlair/MedicationTrackr.
 
-•	Flair Vibes Tailor: A music recommender built using Flask, Python, JQuery, and the Spotify API. You can access the hosted web application here: https://jasonflair.pythonanywhere.com/fvtlp. 
+•	Flair Vibes Tailor: A music recommender built using Flask, Python, JQuery, and the Spotify API. You can access the hosted web application here: https://flair-vibes-tailor.vercel.app/. 
 
 •	Flair-Commerce: The backend of an e-commerce web application built with Node.js, Express.js, Multer and MongoDB. This web application enables user creation and authentication, products management and order management. Github repository: https://github.com/JasonFlair/flair-commerce/tree/main/backend
 
