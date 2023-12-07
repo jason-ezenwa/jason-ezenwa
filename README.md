@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chukwuemelie Obumse, a software engineer interested in full stack web development. Thanks for stopping by my Github page! 🚀
+I'm Chukwuemelie Obumse, a software engineer interested in full stack development. Thanks for stopping by my Github page! 🚀
 
 # About Me
 
