@@ -18,21 +18,19 @@ When I'm not coding, you can find me watching football matches, playing video ga
 # Projects
 
 👨🏾‍💻 I have worked on some exciting projects, including:
-During my studies and personal projects, I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
+ I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
+
+•	Wynk Nigeria's Web Application: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS You can access the hosted web application here: https://wynk-ng.vercel.app.
+
+•	Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access this web application here: https://flair-vibes-tailor.vercel.app/.
 
 •	MedicationTrackr: A medication tracker where I worked on the backend and collaborated with a frontend engineer to build using React, JavaScript, Python, Flask, and APScheduler for scheduling email notifications. The GitHub repository can be accessed here: https://github.com/JasonFlair/MedicationTrackr.
-
-•	Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access the hosted web application here: https://flair-vibes-tailor.vercel.app/.
 
 •	Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin-2.vercel.app/.
 
 •	Flair-Commerce: The backend of an e-commerce web application built with Node.js, Express.js, Multer and MongoDB. This web application enables user creation and authentication, products management and order management. Github repository: https://github.com/JasonFlair/flair-commerce/tree/main/backend
 
 •	Files Manager: An API for a files manager created with Node.js, enabling user authentication, temporary storage with Redis, creation of image thumbnails, and storage of file information using MongoDB. You can access the repository here: https://github.com/JasonFlair/alx-files_manager.
-
-•	AirBnB Clone: An AirBnB clone built using Flask, Python, and JQuery. The GitHub repository is available at: https://github.com/JasonFlair/AirBnB_clone_v4.
-
-•	Simple Shell: A simple shell based on Stephen Brennan's simple shell written in C, which executes basic shell commands. The GitHub repository is available at: https://github.com/JasonFlair/simple_shell.
 
 
 # Blog Posts
