@@ -4,12 +4,11 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack developmen
 
 # About Me
 
-I specialize in backend engineering/development, proficiently using JavaScript (Node.js) and the Express.js framework as well as Python and the Flask framework to develop efficient and scalable server-side applications that can be seamlessly integrated with the frontend applications. Additionally, I have some experience with TypeScript and Linux systems. For database management, I have experience working with both MySQL and MongoDB.
+I specialize in backend engineering/development with proficiency in utilizing JavaScript (Node.js) with the Express.js framework and Python with Flask to create efficient, scalable server-side applications. I excel in seamlessly integrating backend systems with frontend applications. Additionally, I possess familiarity with TypeScript and Linux systems. In terms of database management, I've worked extensively with MySQL and MongoDB.
 
-I also have experience in frontend engineering/development using HTML, JSX, Tailwind CSS, React, Material UI and jQuery.
+On the frontend, I have hands-on experience with HTML, JSX, Tailwind CSS, React, Material UI, and jQuery.
 
-I can be of use to any DevOps team with my knowledge of CI/CD using Jenkins & Fabric and containerization using Docker. I am also skilled in Bash scripting for task automation. 
-Other skills I have include Unit testing, Git for version control, Redis for temporary storage systems and the C programming language.
+My expertise extends to supporting DevOps teams through knowledge in CI/CD using Jenkins & Fabric, and containerization using Docker. I'm adept at Bash scripting for task automation. Additionally, I have skills in unit testing, Git for version control, utilizing Redis for temporary storage systems, and proficiency in the C programming language.
 
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
