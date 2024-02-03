@@ -54,4 +54,4 @@ I have a few blog posts you might be interested in checking out:
 
 # How to Reach Me
 
-Feel free to reach out to me via email at emelieobumse100@gmail.com or on Twitter - @wfmjason
+Feel free to reach out to me via email at emelieobumse100@gmail.com or on Twitter - @turntupjason
