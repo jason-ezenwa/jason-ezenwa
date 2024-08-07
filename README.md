@@ -4,12 +4,13 @@ I'm Chukwuemelie Obumse, a software engineer interested in full stack developmen
 
 # About Me
 
-I specialize in backend engineering/development with proficiency in utilizing JavaScript (Node.js) with the Express.js framework and Python with Flask to create efficient, scalable server-side applications. I excel in seamlessly integrating backend systems with frontend applications. Additionally, I possess familiarity with TypeScript and Linux systems. In terms of database management, I've worked extensively with MySQL and MongoDB.
+I am a Full Stack Software Engineer with two years of experience in software development, specialized in backend development and frontend development, experienced in DevOps and database management.
 
-On the frontend, I have hands-on experience with HTML, JSX, Tailwind CSS, React, Material UI, and jQuery.
+I am adept at crafting clean and testable code, to develop and seamlessly integrate secure RESTful and GraphQL API paradigms, with frontend mobile and web applications. I am also skilled in integrating data analytics tools to support informed business decisions.
 
-My expertise extends to supporting DevOps teams through knowledge in CI/CD using Jenkins & Fabric, and containerization using Docker. I'm adept at Bash scripting for task automation. Additionally, I have skills in unit testing, Git for version control, utilizing Redis for temporary storage systems, and proficiency in the C programming language.
+I have a track record of architecting, developing and deploying highly efficient software, enhancing data visualization, and elevating online visibility through effective SEO. I have successfully delivered high-quality software solutions utilized by thousands of individuals across the blue collar, fintech, lifestyle and transportation industries while working at LaborHack, Wynk Nigeria and TruckDispatch.
 
+FYI, I am currently working on [Zen] (https://github.com/jason-ezenwa/zen-api), you can have a look ;)
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
@@ -34,6 +35,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 I have a few blog posts you might be interested in checking out:
 
+- [The Priceless Influence of Senior Software Engineers on Junior Engineers](https://blog.stackademic.com/the-priceless-influence-of-senior-software-engineers-on-junior-engineers-c7c7cac89747) - An article that highlights the multifaceted benefits of working with senior software engineers
 - [Authentication and Authorization with JSON Web Tokens](https://medium.com/@emelieobumse100/the-definitive-guide-to-authentication-and-authorization-with-json-web-tokens-everything-you-need-5bc7795cb668) - My blog post about server-side authentication and authorization for Node.js apps using JWTs
 - [Getting Familiar with Props in React](https://medium.com/@emelieobumse100/getting-familiar-with-props-in-react-5abdcaae8b04) - My blog post that explains what 'props' are, and how they work. Taking you on a journey to transform your components from static to dynamic.
 - [Implementing an Escrow-like State in Node.js: Building Trust and Security in Online Transactions](https://blog.stackademic.com/implementing-an-escrow-like-state-in-node-js-building-trust-and-security-in-online-transactions-a8058144c005) - My blog post that explains what 'escrows' are, as well as a step y step implementation of an escrow-like mechanism.
