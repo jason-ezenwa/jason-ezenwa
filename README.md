@@ -24,7 +24,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 •	Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access this web application here: https://flair-vibes-tailor.vercel.app/.
 
-•	Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin-2.vercel.app/.
+•	Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin.vercel.app/.
 
 •	Flair-Commerce: The backend of an e-commerce web application built with Node.js, Express.js, Multer and MongoDB. This web application enables user creation and authentication, products management and order management. Github repository: https://github.com/JasonFlair/flair-commerce/tree/main/backend
 
