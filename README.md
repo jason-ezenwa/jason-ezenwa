@@ -17,8 +17,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 # Projects
 
-👨🏾‍💻 I have worked on some exciting projects, including:
- I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
+👨🏾‍💻 I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
 
 •	WYNK.NG: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS You can access the hosted web application here: https://wynk.ng.
 
