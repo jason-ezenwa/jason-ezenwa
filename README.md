@@ -19,13 +19,13 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 👨🏾‍💻 I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
 
-•	WYNK.NG: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS. You can access the hosted web application here: https://wynk.ng.
+- WYNK.NG: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS. You can access the hosted web application here: https://wynk.ng.
 
-•	Zen: This is an API designed for fintech applications. It provides a endpoints that allow users to have multicurrency wallets, exchange currencies and generate virtual cards. It integrates Maplerad's sandbox environment. It was built using TypeScript, Node JS, Express JS, MongoDB. You can access the hosted API here: https://zen-api-68zd.onrender.com/
+- Zen: This is an API designed for fintech applications. It provides a endpoints that allow users to have multicurrency wallets, exchange currencies and generate virtual cards. It integrates Maplerad's sandbox environment. It was built using TypeScript, Node JS, Express JS, MongoDB. You can access the hosted API here: https://zen-api-68zd.onrender.com/
 
-•	Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access this web application here: https://flair-vibes-tailor.vercel.app/.
+- Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access this web application here: https://flair-vibes-tailor.vercel.app/.
 
-•	Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin.vercel.app/.
+- Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin.vercel.app/.
 
 
 # Blog Posts
