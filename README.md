@@ -28,7 +28,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 I have a few blog posts you might be interested in checking out:
 
-- [Beyond Silos: The Cross-Disciplinary Role of the Modern Software Engineer]([https://blog.stackademic.com/the-priceless-influence-of-senior-software-engineers-on-junior-engineers-c7c7cac89747](https://blog.stackademic.com/beyond-silos-the-cross-disciplinary-role-of-the-modern-software-engineer-23305b55389b) - An article about the exposure of software engineers to different fields while working with experts in those fields.
+- [Beyond Silos: The Cross-Disciplinary Role of the Modern Software Engineer](https://blog.stackademic.com/beyond-silos-the-cross-disciplinary-role-of-the-modern-software-engineer-23305b55389b) - An article about the exposure of software engineers to different fields while working with experts in those fields.
 
 - [The Priceless Influence of Senior Software Engineers on Junior Engineers](https://blog.stackademic.com/the-priceless-influence-of-senior-software-engineers-on-junior-engineers-c7c7cac89747) - An article that highlights the multifaceted benefits of working with senior software engineers.
 
