@@ -23,10 +23,6 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 - Zen: This is an API designed for fintech applications. It provides a endpoints that allow users to have multicurrency wallets, exchange currencies and generate virtual cards. It integrates Maplerad's sandbox environment. It was built using TypeScript, Node JS, Express JS, MongoDB. You can access the hosted API here: https://zen-api-68zd.onrender.com/
 
-- Flair Vibes Tailor: A music recommender built using Nodejs, React, Tailwind CSS, JavaScript and the Spotify API. You can access this web application here: https://flair-vibes-tailor.vercel.app/.
-
-- Flairbox Admin: An admin dashboard user interface built using React, Tailwind CSS and JavaScript. You can access the hosted web application here: https://flairbox-admin.vercel.app/.
-
 
 # Blog Posts
 
