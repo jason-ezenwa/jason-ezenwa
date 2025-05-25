@@ -17,7 +17,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 # Projects
 
-👨🏾‍💻 I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
+👨🏾‍💻 I have practical experience in building responsive and accessible web applications. Some notable projects include:
 
 - Zen: A modern fintech application that allows users to manage multi-currency wallets, exchange currencies, and access virtual card services such as creation, funding, and transaction tracking. It integrates with Maplerad and Paystack, and is built with TypeScript, Next.js, Node.js, and MongoDB. You can access the hosted API here: try-zen-finance.vercel.app
 
@@ -41,15 +41,6 @@ I have a few blog posts you might be interested in checking out:
 - [What Happens When You Type “https://www.google.com” Into Your Browser and Press ‘Enter’](https://medium.com/@emelieobumse100/what-happens-when-you-type-https-www-google-com-into-your-browser-and-press-enter-bc0b0d8c7d08) - My blog post about how the web works and what happens when you enter a URL in your browser.
 
 
-# Soft Skills
-
-👨🏾‍💼 I possess strong communication skills, both verbal and written, with the ability to explain technical concepts to non-technical stakeholders.
-
-📝 I'm detail-oriented and highly organized, with the ability to manage multiple projects and deadlines simultaneously.
-
-💪 I'm self-motivated and proactive, with the ability to work independently or as part of a team.
-
-📚 I'm adaptable and flexible, with the ability to quickly learn new technologies and processes.
 
 
 # How to Reach Me
