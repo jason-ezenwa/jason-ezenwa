@@ -19,7 +19,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 👨🏾‍💻 I have gained practical experience in building responsive and accessible websites and web applications. Some notable projects include:
 
-- Zen: This is a fintech applications with a range of features that allow users to have multicurrency wallets, exchange currencies and generate virtual cards. It is powered by Maplerad and Paystack integrations. It was built using TypeScript, Next.js Node.js, and, MongoDB. You can access the hosted API here: try-zen-finance.vercel.app
+- Zen: A modern fintech application that allows users to manage multi-currency wallets, exchange currencies, and access virtual card services such as creation, funding, and transaction tracking. It integrates with Maplerad and Paystack, and is built with TypeScript, Next.js, Node.js, and MongoDB. You can access the hosted API here: try-zen-finance.vercel.app
 
 - WYNK.NG: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS. You can access the hosted web application here: https://wynk.ng.
 
