@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-I'm Chukwuemelie Jason Obumse, a software engineer interested in full stack development. Thanks for stopping by my Github page! 🚀
+I'm Chukwuemelie Jason Obumse, a Software Engineer interested in full stack development. Thanks for stopping by my Github page! 🚀
 
 # About Me
 
-I am a Full Stack Software Engineer with two years of experience in software development, specialized in backend development and frontend development, experienced in DevOps and database management.
+I am a Full Stack Engineer with 3+ years of experience delivering scalable and maintainable solutions across B2B and B2C domains. I specialize in backend and frontend engineering, with additional strengths in system design and DevOps.
 
-I am adept at crafting clean and testable code, to develop and seamlessly integrate secure RESTful and GraphQL API paradigms, with frontend mobile and web applications. I am also skilled in integrating data analytics tools to support informed business decisions.
+I am adept at crafting clean and testable code, to develop and seamlessly integrate secure RESTful and GraphQL API paradigms, with mobile and web applications. I am also skilled in integrating data analytics tools to support informed business decisions.
 
-I have a track record of architecting, developing and deploying highly efficient software, enhancing data visualization, and elevating online visibility through effective SEO. I have successfully delivered high-quality software solutions utilized by thousands of individuals across the blue collar, fintech, lifestyle and transportation industries while working at LaborHack, Wynk Nigeria and TruckDispatch.
+I have a track record of architecting, developing and deploying highly efficient software, enhancing data visualization, and elevating online visibility through effective SEO. I have successfully delivered high-quality software solutions utilized by thousands of individuals across the blue collar, fintech, data, and lifestyle industries while working at LaborHack, Peppermint and Wynk Limited.
 
 FYI, I am currently working on [Zen](https://github.com/jason-ezenwa/zen-finance), you can have a look ;)
 
