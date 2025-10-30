@@ -19,9 +19,9 @@ When I'm not coding, you can find me watching football matches, playing video ga
 
 👨🏾‍💻 I have practical experience in building responsive and accessible web applications. Some notable projects include:
 
-- Zen: A modern fintech application that allows users to manage multi-currency wallets, exchange currencies, and access virtual card services such as creation, funding, and transaction tracking. It integrates with Maplerad and Paystack, and is built with TypeScript, Next.js, Node.js, and MongoDB. You can access the hosted API here: try-zen-finance.vercel.app
+- Zen: A modern fintech application that allows users to manage multi-currency wallets, exchange currencies, and access virtual card services such as creation, funding, and transaction tracking. It integrates with Maplerad and Paystack, and is built with TypeScript, Next.js, Node.js, and MongoDB. You can access it here: try-zen-finance.vercel.app
 
-- WYNK.NG: This web application displays and elaborates on the services provided by Wynk Nigeria, from ride hailing to payment and lifestyle services, as well as the opportunities in store for partners and potential partners. It was built using React, JavaScript and Tailwind CSS. You can access the hosted web application here: https://wynk.ng.
+- Hunt Assistant: This is an AI powered tool that gives you insights on how you fit for a job based on your qualifications & the job's requirements and helps you write a cover letter you can download, tailored to the job. It integrates with AI and is built with TypeScript, Next.js and Node.js. You can access it here: https://hunt-assistant.vercel.app/
 
 
 # Blog Posts
