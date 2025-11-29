@@ -27,7 +27,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 # Blog Posts
 
 I have a few blog posts you might be interested in checking out:
-- [MVPs and the Engineering Trap: Building What Actually Matters](https://blog.stackademic.com/beyond-silos-the-cross-disciplinary-role-of-the-modern-software-engineer-23305b55389b](https://blog.stackademic.com/mvps-and-the-engineering-trap-building-what-actually-matters-6c253bb5b3cd) - Here, I explore how clarity beats code in early-stage startups, and why your MVP should be a learning engine focused on understanding user needs rather than perfect architecture.
+- [MVPs and the Engineering Trap: Building What Actually Matters](https://blog.stackademic.com/mvps-and-the-engineering-trap-building-what-actually-matters-6c253bb5b3cd) - Here, I explore how clarity beats code in early-stage startups, and why your MVP should be a learning engine focused on understanding user needs rather than perfect architecture.
 
 - [Beyond Silos: The Cross-Disciplinary Role of the Modern Software Engineer](https://blog.stackademic.com/beyond-silos-the-cross-disciplinary-role-of-the-modern-software-engineer-23305b55389b) - An article about the exposure of software engineers to different fields while working with experts in those fields.
 
