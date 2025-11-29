@@ -10,7 +10,7 @@ I am adept at crafting clean and testable code, to develop and seamlessly integr
 
 I have a track record of architecting, developing and deploying highly efficient software, enhancing data visualization, and elevating online visibility through effective SEO. I have successfully delivered high-quality software solutions utilized by thousands of individuals across the blue collar, fintech, data, and lifestyle industries while working at LaborHack, Peppermint and Wynk Limited.
 
-FYI, I am currently working on [Zen](https://github.com/jason-ezenwa/zen-finance), you can have a look ;)
+FYI, I am currently working on [Zen](https://github.com/jason-ezenwa/zen-finance) and [Hunt Assistant](https://github.com/jason-ezenwa/hunt-assistant), you can have a look ;)
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
