@@ -10,7 +10,7 @@ I am adept at crafting clean and testable code, to develop and seamlessly integr
 
 I have a track record of architecting, developing and deploying highly efficient software, enhancing data visualization, and elevating online visibility through effective SEO. I have successfully delivered high-quality software solutions utilized by thousands of individuals across the blue collar, fintech, data, and lifestyle industries while working at LaborHack, Peppermint and Wynk Limited.
 
-FYI, I am currently working on [Hunt Assistant](https://github.com/jason-ezenwa/hunt-assistant) and [Zen](https://github.com/jason-ezenwa/zen-finance), you can have a look ;)
+FYI, I am currently working on [PaprWrk](https://paprwrk.chukwuemelie.com) [Hunt Assistant](https://github.com/jason-ezenwa/hunt-assistant) and [Zen](https://github.com/jason-ezenwa/zen-finance), you can have a look ;)
 
 When I'm not coding, you can find me watching football matches, playing video games, watching anime & TV shows, or reading comic books. I love exploring new things and learning new skills.
 
@@ -18,6 +18,7 @@ When I'm not coding, you can find me watching football matches, playing video ga
 # Projects
 
 👨🏾‍💻 I have practical experience in building responsive and accessible web applications. Some notable projects include:
+- PaprWrk: Reads the carrier paperwork small freight brokerages get, matches it to loads, and flags what's missing or wrong before they bill or pay.
 
 - Hunt Assistant: This is an AI powered tool that gives you insights on how you fit for a job based on your qualifications & the job's requirements and helps you write a cover letter you can download, tailored to the job. It integrates with AI and is built with TypeScript, Next.js and Node.js. You can access it here: https://hunt-assistant.vercel.app/
 
